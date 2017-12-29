@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[p1]]></title>
+    <url>%2F2017%2F12%2F29%2Fp1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[article title]]></title>
     <url>%2F2017%2F12%2F29%2Farticle-title%2F</url>
     <content type="text"><![CDATA[这是一篇测试文章]]></content>
